@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+⚡ Fun fact: My main activity lately: ![zabawna całeczka](/obrazki/całeczka.gif)
 <!--
 **jakseluz/jakseluz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
