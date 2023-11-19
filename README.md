@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+🔭 https://jakseluz.github.io
 ⚡ Fun fact: My main activity lately: ![zabawna całeczka](/obrazki/całeczka.gif)
 coś ciekawego bym jeszcze napisał, ale pomysły niech idą gdzie indziej
 <!--
