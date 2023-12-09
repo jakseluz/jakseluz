@@ -3,6 +3,8 @@
 ⚡ Fun fact: My main activity lately:  
 ![zabawna całeczka](/obrazki/całeczka.gif)\
 coś ciekawego bym jeszcze napisał, ale pomysły niech idą gdzie indziej
+
+[link do forka](https://github.com/jakseluz/Real-Time-Voice-Cloning.git)
 <!--
 **jakseluz/jakseluz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
