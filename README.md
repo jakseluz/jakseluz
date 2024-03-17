@@ -3,7 +3,6 @@
 ⚡ Fun fact: My main activity lately:  
 ![zabawna całeczka](/obrazki/całeczka.gif)\
 coś ciekawego bym jeszcze napisał, ale pomysły niech idą gdzie indziej\
-\
 <!--
 [link do forka](https://github.com/jakseluz/Real-Time-Voice-Cloning.git)🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱
 [link do artykułu dotyczącego forka](https://paperswithcode.com/paper/transfer-learning-from-speaker-verification)
