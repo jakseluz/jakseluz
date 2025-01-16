@@ -1,6 +1,5 @@
 ### Hi there 👋
-🔭 https://jakseluz.github.io \
-coś ciekawego bym napisał, ale pomysły niech idą gdzie indziej
+🤔 coś ciekawego bym napisał, ale pomysły niech idą gdzie indziej
 <!--
 [link do forka](https://github.com/jakseluz/Real-Time-Voice-Cloning.git)🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱
 [link do artykułu dotyczącego forka](https://paperswithcode.com/paper/transfer-learning-from-speaker-verification)
