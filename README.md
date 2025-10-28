@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🤡
 🤔 coś ciekawego bym napisał, ale pomysły niech idą gdzie indziej
 <!--
 [link do forka](https://github.com/jakseluz/Real-Time-Voice-Cloning.git)🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱
