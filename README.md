@@ -1,19 +1,65 @@
-### Hi there 👋🤡
-🤔 coś ciekawego bym napisał, ale pomysły niech idą gdzie indziej
-<!--
-[link do forka](https://github.com/jakseluz/Real-Time-Voice-Cloning.git)🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱
-[link do artykułu dotyczącego forka](https://paperswithcode.com/paper/transfer-learning-from-speaker-verification)
+<h1 align="center">Hi, I'm Jakub 👋</h1>
 
-**jakseluz/jakseluz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  I'm studying Computer Science and Intelligent Systems at AGH University of Kraków (Poland) 
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <!-- Programming Languages -->
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
+  </a>
+<a href="https://www.java.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+  </a>
+  <a href="https://en.cppreference.com/w/c" target="_blank">
+    <img src="https://skillicons.dev/icons?i=c" alt="C" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <!-- Frontend -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+  </a>
+<a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" alt="React" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Databases and Tools -->
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
+  </a>
+  <a href="https://www.latex-project.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=latex" alt="LaTeX" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  I enjoy learning new things, balancing between a humanistic mindset and a technical approach.
+</p>
+
+<p align="center">
+  <a href="https://github.com/jakseluz">GitHub</a> ·
+  <a href="mailto:labuzjak@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/jakublabuz">LinkedIn</a>
+</p>
