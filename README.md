@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jakub 👋</h1>
+<h1 align="center">Hi, I'm Jakub</h1>
 
 <p align="center">
   I'm studying Computer Science and Intelligent Systems at AGH University of Kraków (Poland) 
@@ -38,7 +38,7 @@
 
 <p align="center">
   <!-- Databases and Tools -->
-  <a href="https://www.linux.org/" target="_blank">
+  <a href="https://www.linux.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
   </a>
   <a href="https://git-scm.com/" target="_blank">
