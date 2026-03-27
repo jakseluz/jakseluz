@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jakub</h1>
 
 <p align="center">
-  I'm studying Computer Science and Intelligent Systems at AGH University of Kraków (Poland) 
+  I'm studying Computer Science and Intelligent Systems at <a href="https://www.agh.edu.pl/en">AGH University of Kraków</a> (Poland)
 </p>
 
 <p align="center">
@@ -59,7 +59,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/jakseluz">GitHub</a> ·
-  <a href="mailto:labuzjak@gmail.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/jakublabuz">LinkedIn</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakublabuz)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:labuzjak@gmail.com)
 </p>
